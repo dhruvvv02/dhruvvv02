@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Dhruv Shrivastava</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-- 🌱 I’m currently learning **Python, Artificial Intelligence**
+- 🌱 I’m currently learning **Python, Java, Artificial Intelligence**
 
 - 👨‍💻 All of my projects are available at [https://github.com/dhruvvv02](https://github.com/dhruvvv02)
 
