@@ -6,6 +6,7 @@
 - 👨‍💻 All of my projects are available at [https://github.com/dhruvvv02](https://github.com/dhruvvv02)
 
 - 📫 How to reach me **shridhruv02@gmail.com**
+- Here is my portfolio website.<a href="https://dhruv-shrivastava.mailchimpsites.com/" target="blank"> My portfolio website</a> Proceed to learn more about me
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
